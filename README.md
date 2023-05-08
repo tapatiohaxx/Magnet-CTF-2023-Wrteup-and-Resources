@@ -13,3 +13,8 @@ In the same way, you can find an executable of ALEAPP in the ``Forensics Resourc
 
 You can get a free trial of Magnet Axiom here https://www.magnetforensics.com/products/magnet-axiom/
 
+To work with the image on your own, get it here: https://go.magnetforensics.com/e/52162/L20Logical20Image20-20Data-tar/lhwp55/1349654479?h=khD041z2f6G7MYqLCQrfKcp2-yHyrjShX0ToeHbrFMo
+
+The imate is downloaded as a ``.tar`` file. Process that as normal in ALEAPP, normal in Axiom, and as a logical file in Autopsy.
+
+Refer to questions.txt to just have the questions if you'd like to play them before reading my writeup.
