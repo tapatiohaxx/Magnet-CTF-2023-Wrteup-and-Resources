@@ -6,7 +6,7 @@ This repo contains my writeup and all of the resources necessary to complete the
 ## Questions Overview (provided by ``Andro6#0096`` on Discord)
 ![image](https://user-images.githubusercontent.com/33331153/236711628-9166dab4-93ed-4df3-ba8e-317581625c25.png)
 
-##Folder Structure
+## Folder Structure
 
 You can find all of the images necessary for playing along with the Cipher section of the CTF in the ``Crypto resources`` directory under ``resources``.
 
