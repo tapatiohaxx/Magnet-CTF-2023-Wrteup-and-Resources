@@ -10,7 +10,7 @@ This repo contains my writeup and all of the resources necessary to complete the
 
 You can find all of the images necessary for playing along with the Cipher section of the CTF in the ``Crypto resources`` directory under ``resources``.
 
-In the same way, you can find an executable of ALEAPP in the ``Forensics Resources`` directory of my resources.
+In the same way, you can find an executable of ALEAPP in the ``Forensics Resources`` directory of ``resources``.
 
 ## Additional Notes
 
